@@ -1,0 +1,23 @@
+<DOCTTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>China's businesa activity</title>
+    <meta name="description"" content="China business activity monthly index. Updated monthly with FTCR's surveys thousands of consumers and companies across China to get a sense of what is going on on-the-ground in an economy that' snotiriously difficult to ge a read on.>
+    <meta name="keywords" content="China, emerging markets, economic growth, business activity in China, economic indicators in China.">
+<link href="linktocssfile.css" rel="stylesheet">
+<style>
+        html {
+        / *standard font family*/
+        font-family: Arial, sans-seif;
+        overflow-x: hidden;
+        }
+        body {
+        /*add side margings*/
+        margin: 0px 30px 0px 30px;
+        }
+</style>
+</head>
+<body>
+</body>
+</html>
