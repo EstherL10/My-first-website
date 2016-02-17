@@ -19,5 +19,17 @@
 </style>
 </head>
 <body>
+    <div id="inner">
+        <a href="/"> <img src="href="myimages.png" alrt="logo" class="logo">
+        </a>
+    </div>
+    <div id="navigation">
+        <div class="category_choice">Books</div>
+        <div class="category_choice">Photos</div>
+        <div class="category_choice">Contact us</div>
+    </div>
+    <div id="content">
+    </div>
+    
 </body>
 </html>
